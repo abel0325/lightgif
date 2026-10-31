@@ -1,0 +1,8 @@
+* text=auto
+*.cpp text eol=lf
+*.h text eol=lf
+*.ps1 text eol=crlf
+*.gif binary
+*.png binary
+*.ico binary
+*.gifcfg binary

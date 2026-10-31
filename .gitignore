@@ -1,0 +1,11 @@
+/build/
+/dist/
+/.venv/
+/维护交接.md
+__pycache__/
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exe
+*.log
